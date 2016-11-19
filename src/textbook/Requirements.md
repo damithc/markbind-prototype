@@ -12,7 +12,7 @@ requirements is not as straightforward as it sounds. It is not as simple as writ
 There are two different kinds of requirements: functional requirements and non-functional requirements. 
 
 
-><sidebar>
+<sidebar>
 #### Functional Requirements vs Non-Functional Requirements
   <include NonFunctionalRequirements.md>
     <exclude level4*, level5*>
@@ -66,3 +66,6 @@ Focus groups are a kind of informal interview within an interactive group settin
 (e.g. potential users, beta testers) are asked about their understanding of a specific issue or a process.  
 Focus groups can bring out undiscovered conflicts and misunderstandings among stakeholder interests which can then be 
 resolved or clarified as necessary.  
+
+### Prototyping
+<include Prototyping.md/>
