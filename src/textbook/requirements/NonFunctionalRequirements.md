@@ -3,6 +3,10 @@ In contrast to __Functional Requirements__ which specify what the system should 
 __Non-Functional Requirements__ specify the constraints under which system is developed and operated. 
 </seg>
 
+<note id="nfrs-in-a-nutshell" title="NFRs in a Nutshell" styles="big,important,right">
+FRs are about **WHAT** a system does; NFRS are about **HOW** the system does those things
+</note>
+
 <seg id="def-examples" title="NFR examples"> 
 Some examples of Non-Functional Requirements:
 * Data requirements e.g. size, volatility, persistency etc., 
@@ -11,6 +15,7 @@ Some examples of Non-Functional Requirements:
   Fault tolerance, Interoperability, Maintainability, Privacy, Portability, Quality, Reliability, 
   Response time, Robustness, Scalability, Security, Stability, Testability, and more ...
 </seg>
+
 
 <seg id="level5-more-examples" title="More examples">
 More NFR examples...  

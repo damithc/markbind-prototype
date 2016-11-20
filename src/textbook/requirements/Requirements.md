@@ -1,6 +1,6 @@
 # Requirements
 
-<expand title="Requirement" style="info">
+<expand title="Requirement" styles="info">
 <seg def-Requirement title="Requirement"> A requirement specifies needs of stakeholders that are to be met 
 by software. </seg>
 </expand>
@@ -20,14 +20,14 @@ Dealing with requirements is a complicated task. It is not as simple as writing 
 Note that when dealing with requirements, we need to consider both functional requirements and 
 non-functional requirements. 
 
-<expand title="Non-Functional Requirements" auto="true" style="sidebar">
+<expand title="Non-Functional Requirements" auto="true" styles="sidebar">
   <include NonFunctionalRequirements.md exclude="level4*, level5*">
     <restyle segments="def-NFR" styles="highlight">
     <restyle segments="level2, level3" styles="expandable">
   </include>
-  <expand title="Why NFRs are important?" style="info" src="NonFunctionalRequirements.md#level4-importance"/>
+  <expand id="why-nfrs-are-important" title="Why NFRs are important?" styles="info" 
+          src="NonFunctionalRequirements.md#level4-importance"/>
 </expand>
-
 
 There are two requirements-related activities that go hand-in-hand:
 

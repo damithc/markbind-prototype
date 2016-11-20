@@ -21,4 +21,4 @@ Focus groups can bring out undiscovered conflicts and misunderstandings among st
 resolved or clarified as necessary.  
 
 ### Prototyping
-<include Prototyping.md/>
+<include Prototyping.md level="3">
