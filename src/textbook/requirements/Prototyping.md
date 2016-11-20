@@ -14,4 +14,4 @@ Here is a more realistic example of a GUI prototype created using Balsamiq
 <footnote BAL-IMG>Image taken from [http://balsamiq.com/](http://balsamiq.com/products/mockups). 
 Balsmiq has a free version for creating UI prototypes.</footnote>
 
-<img src="images/PhoneUiPrototype.png" with="200">
+<img src="../images/PhoneUiPrototype.png" with="200">
