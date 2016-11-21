@@ -8,7 +8,6 @@ FRs are about **WHAT** a system does; NFRS are about **HOW** the system does tho
 </seg>
 
 <seg id="def-examples" title="NFR examples"> 
-Some examples of Non-Functional Requirements:
 * Data requirements e.g. size, volatility, persistency etc., 
 * Environment requirements e.g. technical environment in which system would operate or need to be compatible with. 
 * Accessibility, Capacity, Compliance with regulations, Documentation, Disaster recovery, Efficiency, Extensibility, 
@@ -31,7 +30,9 @@ right functionalities.
 
 <seg id="q-performance" title="Is this an NFR?" tags="prep,level1">
 Is this an NFR? _The webpage must load within 5 seconds._
-<seg id="answer">Yes</seg>
+<seg id="answer">
+Yes
+</seg>
 </seg>
 
 <seg id="q-pick" title="Which ones are NFRs?" tags="level2">

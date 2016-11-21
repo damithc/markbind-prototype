@@ -2,9 +2,11 @@
 
 <note src="NonFunctionalRequirements.md#nfrs-in-a-nutshell" styles="note,big,right"/>
 
-<include src="NonFunctionalRequirements.md#def-examples" styles="big,right"/>
+Some examples of Non-Functional Requirements:
+<include src="NonFunctionalRequirements.md#def-examples"/>
 
 <expandable src="NonFunctionalRequirements.md#more-examples"/>
 
-<include src="NonFunctionalRequirements.md#questions" styles="question-slider" only="level1,level2"/>
+Use the questions below to self-test your understanding of NFRs.
+<questions src="NonFunctionalRequirements.md#questions" only="level1,level2"/>
           

@@ -14,8 +14,8 @@ Here are some examples of user stories for the IVLE system:
 The `<benefit>` can be omitted if it is obvious. E.g. As a tutor, I can print attendance sheets.
 User stories are mainly used for early estimation and scheduling purposes. 
 
-According to <ref xp-website/>, the biggest difference between user stories and traditional requirements specifications 
-is in the level of detail. User stories should only provide enough detail to make a reasonably low risk 
+According to <ref xp-website>this<ref/>, the biggest difference between user stories and traditional requirements 
+specifications is in the level of detail. User stories should only provide enough detail to make a reasonably low risk 
 estimate of how long the story will take to implement. When the time comes to implement the story, 
 the developers will meet with the customer face-to-face  to work out a more detailed description of the requirements.
 

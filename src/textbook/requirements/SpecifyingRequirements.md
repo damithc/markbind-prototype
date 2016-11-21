@@ -1,3 +1,5 @@
+# Specifying requirements 
+
 <seg preview>As we establish requirements, they should be recorded in some way for future reference, 
 usually called a requirement specification. Furthermore, it is advisable to show these requirements to stakeholders, 
 and refine requirements based on their feedback. The next phase is to convert requirements into a product 
@@ -7,7 +9,10 @@ Given next are some tools and techniques that can be used to specify requirement
 Note that they can also be used for establishing requirements too.
 
 ## Textual descriptions (unstructured prose)
-This is the most straight forward way of describing requirements. A textual description can be used to give a quick overview of the domain/system that is understandable to both the users and the development team. Textual descriptions are especially useful when describing the vision of a product. However, lengthy textual descriptions are hard to follow. 
+This is the most straight forward way of describing requirements. 
+A textual description can be used to give a quick overview of the domain/system that is understandable to both 
+the users and the development team. Textual descriptions are especially useful when describing the vision of a product. 
+However, lengthy textual descriptions are hard to follow. 
 
 ## Feature list
 It is a list of features (or functionalities) grouped according to some criteria such as priority 
