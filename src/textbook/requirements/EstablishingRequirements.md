@@ -1,4 +1,4 @@
-<seg Prerview>Requirements gathering, requirements elicitation, requirements analysis, 
+<seg prerview>Requirements gathering, requirements elicitation, requirements analysis, 
 requirements capture are some of the terms commonly and interchangeably used to represent the activity 
 of understanding what a software product should do.</seg>
 

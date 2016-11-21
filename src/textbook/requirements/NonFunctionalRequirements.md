@@ -1,11 +1,11 @@
-<seg id="def-NFR" title="Non Functional Requirements"> 
+<seg id="def-nfr" title="Non Functional Requirements"> 
 In contrast to __Functional Requirements__ which specify what the system should do, 
 __Non-Functional Requirements__ specify the constraints under which system is developed and operated. 
 </seg>
 
-<note id="nfrs-in-a-nutshell" title="NFRs in a Nutshell" styles="big,important,right">
+<seg id="nfrs-in-a-nutshell" title="NFRs in a Nutshell" tags="note,level1">
 FRs are about **WHAT** a system does; NFRS are about **HOW** the system does those things
-</note>
+</seg>
 
 <seg id="def-examples" title="NFR examples"> 
 Some examples of Non-Functional Requirements:
@@ -16,33 +16,34 @@ Some examples of Non-Functional Requirements:
   Response time, Robustness, Scalability, Security, Stability, Testability, and more ...
 </seg>
 
-
-<seg id="level5-more-examples" title="More examples">
+<seg id="more-examples" title="More examples" tags="level5">
 More NFR examples...  
 </seg>  
 
-<seg id="level4-importance" title="Why NFRs are Important?">
+<seg id="importance" title="Why NFRs are Important?" tags="level4">
 Non-functional requirements are easier to miss. We should spend extra effort in digging them out as early as possible 
 because sometimes they are critical to the success of the software. 
 E.g. A web application that is too slow or that has low security is unlikely to succeed even if it has all the 
 right functionalities.   
 </seg>
 
-<seg id="level2-question-peformance" title="Is this an NFR?">
-<question>Is this an NFR? _The webpage must load within 5 seconds._
-<answer>Yes</answer>
-</question>
+<seg id="questions">
+
+<seg id="q-performance" title="Is this an NFR?" tags="prep,level1">
+Is this an NFR? _The webpage must load within 5 seconds._
+<seg id="answer">Yes</seg>
 </seg>
 
-<seg id="level3-question-pick" title="Which ones are NFRs?">
-<question>Which of these are NFRs?
+<seg id="q-pick" title="Which ones are NFRs?" tags="level2">
+Which of these are NFRs?
 - [ ] The system must be secure
 - [ ] The system must be fast
 - [ ] The system must allow adding accounts
-<answer>
+<seg id="answer">
 - [x] The system must be secure
 - [x] The system must be fast
 - [ ] The system must allow adding accounts
-</answer>
-</question>
+</seg>
+</seg>
+
 </seg>

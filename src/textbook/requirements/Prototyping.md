@@ -14,8 +14,9 @@ to uncover requirements, in particular, those related to how users interact with
 UI prototypes are often used in brainstorming sessions, or in meetings with the users to get quick feedback from them. 
 <ref src="phone-ui-prototype">Here</ref> is a more realistic example of a GUI prototype created using Balsamiq 
 (a tool for creating UI prototypes)
-<footnote BAL-IMG>Image taken from [http://balsamiq.com/](http://balsamiq.com/products/mockups). 
-Balsmiq has a free version for creating UI prototypes.</footnote>
+
+<seg id="BAL-IMG" supplementary="true">Image taken from [http://balsamiq.com/](http://balsamiq.com/products/mockups). 
+Balsmiq has a free version for creating UI prototypes.</seg>
 
 
 
