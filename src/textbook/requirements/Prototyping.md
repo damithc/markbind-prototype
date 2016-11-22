@@ -7,7 +7,7 @@ A prototype is a mock up, a scaled down version, or a partial system constructed
     small scale before committing fully to one alternative. 
 4. for early field-testing under controlled conditions. 
 
-<figure id="phone-ui-prototype" title="" src="../images/PhoneUiPrototype.png" with="200" float="right">
+<box id="phone-ui-prototype" title="" src="../images/PhoneUiPrototype.png" with="200" float="right">
 
 Early UI prototyping, i.e. sketching the user interface for the intended product, is a good technique 
 to uncover requirements, in particular, those related to how users interact with the system. 
